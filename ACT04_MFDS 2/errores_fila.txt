@@ -1,0 +1,2 @@
+2026-11-13 11:03:04 ('127.0.0.1', 49690) Protocolo inválido: 'MENSAJE_MALO'
+2026-11-13 11:03:09 ('127.0.0.1', 49695) Bytes no válidos UTF-8
