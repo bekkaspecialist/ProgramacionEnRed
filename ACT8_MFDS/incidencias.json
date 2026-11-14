@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "tipo": "alerta",
+    "descripcion": "Registro actualizado",
+    "estado": "abierta",
+    "hora": "2026-11-13 22:14:43"
+  },
+  {
+    "id": 2,
+    "tipo": "vulnerabilidad",
+    "descripcion": "Contrasena debil",
+    "estado": "abierta",
+    "hora": "2026-11-13 22:15:00"
+  },
+  {
+    "id": 3,
+    "tipo": "alerta",
+    "descripcion": "Escaneo de puertos",
+    "estado": "resuelta",
+    "hora": "2026-11-13 22:33:16"
+  }
+]
